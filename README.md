@@ -1,4 +1,8 @@
-Tempat Wisata
+Aplikasi Tempat Wisata
+
+Nama: Naufal Dzaki Pratama <br>
+NIM: 3.34.21.0.19 <br>
+Kelas: IK-2A <br>
 
 <img src="https://user-images.githubusercontent.com/117345047/199973219-15a9621f-db0d-4376-b080-2da2f7592dbe.PNG" width="400">
 
