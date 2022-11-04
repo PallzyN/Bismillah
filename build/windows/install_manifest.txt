@@ -1,0 +1,10 @@
+E:/Objekwisata2/objekwisata2/build/windows/runner/Debug/data/icudtl.dat
+E:/Objekwisata2/objekwisata2/build/windows/runner/Debug/flutter_windows.dll
+E:/Objekwisata2/objekwisata2/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+E:/Objekwisata2/objekwisata2/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+E:/Objekwisata2/objekwisata2/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+E:/Objekwisata2/objekwisata2/build/windows/runner/Debug/data/flutter_assets/images/Bukit%20sikepel.png
+E:/Objekwisata2/objekwisata2/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+E:/Objekwisata2/objekwisata2/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+E:/Objekwisata2/objekwisata2/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+E:/Objekwisata2/objekwisata2/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag

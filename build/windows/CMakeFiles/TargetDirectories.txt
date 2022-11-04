@@ -1,0 +1,10 @@
+E:/Objekwisata2/objekwisata2/build/windows/CMakeFiles/INSTALL.dir
+E:/Objekwisata2/objekwisata2/build/windows/CMakeFiles/ALL_BUILD.dir
+E:/Objekwisata2/objekwisata2/build/windows/CMakeFiles/ZERO_CHECK.dir
+E:/Objekwisata2/objekwisata2/build/windows/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+E:/Objekwisata2/objekwisata2/build/windows/flutter/CMakeFiles/flutter_wrapper_app.dir
+E:/Objekwisata2/objekwisata2/build/windows/flutter/CMakeFiles/flutter_assemble.dir
+E:/Objekwisata2/objekwisata2/build/windows/flutter/CMakeFiles/INSTALL.dir
+E:/Objekwisata2/objekwisata2/build/windows/runner/CMakeFiles/objekwisata2.dir
+E:/Objekwisata2/objekwisata2/build/windows/runner/CMakeFiles/INSTALL.dir
+E:/Objekwisata2/objekwisata2/build/windows/runner/CMakeFiles/ALL_BUILD.dir

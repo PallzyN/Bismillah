@@ -1,0 +1,28 @@
+^E:\OBJEKWISATA2\OBJEKWISATA2\BUILD\WINDOWS\CMAKEFILES\B73BCF7189B7D4756471DA25EF4CA077\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\Users\Naufal\flutter\flutter PROJECT_DIR=E:\Objekwisata2\objekwisata2 FLUTTER_ROOT=C:\Users\Naufal\flutter\flutter FLUTTER_EPHEMERAL_DIR=E:\Objekwisata2\objekwisata2\windows\flutter\ephemeral PROJECT_DIR=E:\Objekwisata2\objekwisata2 FLUTTER_TARGET=E:\Objekwisata2\objekwisata2\lib\main.dart DART_DEFINES=RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false PACKAGE_CONFIG=E:\Objekwisata2\objekwisata2\.dart_tool\package_config.json C:/Users/Naufal/flutter/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\OBJEKWISATA2\OBJEKWISATA2\BUILD\WINDOWS\CMAKEFILES\2400467F4E374197CA83BC110CCA930C\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\OBJEKWISATA2\OBJEKWISATA2\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SE:/Objekwisata2/objekwisata2/windows -BE:/Objekwisata2/objekwisata2/build/windows --check-stamp-file E:/Objekwisata2/objekwisata2/build/windows/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

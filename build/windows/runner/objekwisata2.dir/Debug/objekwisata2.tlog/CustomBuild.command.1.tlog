@@ -1,0 +1,10 @@
+^E:\OBJEKWISATA2\OBJEKWISATA2\WINDOWS\RUNNER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SE:/Objekwisata2/objekwisata2/windows -BE:/Objekwisata2/objekwisata2/build/windows --check-stamp-file E:/Objekwisata2/objekwisata2/build/windows/runner/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

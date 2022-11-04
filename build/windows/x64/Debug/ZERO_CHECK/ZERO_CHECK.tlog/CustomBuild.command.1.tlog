@@ -1,0 +1,10 @@
+^E:\OBJEKWISATA2\OBJEKWISATA2\BUILD\WINDOWS\CMAKEFILES\3644802BFC268DC8266F35FCF8C9E2F7\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SE:/Objekwisata2/objekwisata2/windows -BE:/Objekwisata2/objekwisata2/build/windows --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file E:/Objekwisata2/objekwisata2/build/windows/objekwisata2.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\Objekwisata2\objekwisata2\build\windows\CMakeFiles\2400467f4e374197ca83bc110cca930c\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{77F6FB05-A00A-38AD-AB42-69A1694FCD51}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
