@@ -1,4 +1,4 @@
-Aplikasi Tempat Wisata
+# Aplikasi Tempat Wisata
 
 Nama: Naufal Dzaki Pratama <br>
 NIM: 3.34.21.0.19 <br>
